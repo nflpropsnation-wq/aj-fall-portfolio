@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AJ | SEO & Digital Marketing Portfolio</title>
+<meta name="description" content="AJ – SEO & Digital Marketing Portfolio featuring enterprise and agency case studies." />
+<style>
+body { margin:0; font-family: Inter, Arial, sans-serif; color:#111; background:#fff; }
+header { padding:80px 10%; background:#0f172a; color:#fff; }
+h1 { font-size:3rem; margin-bottom:10px; }
+h2 { font-size:2rem; margin:0 0 20px; }
+p { line-height:1.6; max-width:900px; }
+section { padding:80px 10%; }
+.btn { display:inline-block; padding:14px 28px; background:#2563eb; color:#fff; text-decoration:none; border-radius:6px; margin-right:12px; }
+.btn.secondary { background:#e5e7eb; color:#111; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:30px; align-items:center; }
+.logo-card { padding:30px; border:1px solid #e5e7eb; border-radius:12px; display:flex; align-items:center; justify-content:center; background:#fff; }
+.logo-card img { max-width:160px; max-height:80px; }
+footer { padding:40px 10%; background:#f8fafc; font-size:0.9rem; }
+</style>
+</head>
+<body>
+
+
+<header>
+<h1>AJ</h1>
+<h2>SEO & Digital Marketing Strategist</h2>
+<p>I help brands grow through technical SEO, content strategy, and performance-driven digital marketing. Experience across healthcare, construction, B2B, retail, and nonprofit sectors.</p>
+<a href="#case-studies" class="btn">View Case Studies</a>
+<a href="https://www.linkedin.com" target="_blank" class="btn secondary">LinkedIn</a>
+</header>
+
+
+<section id="about">
+<h2>About Me</h2>
+<p>This portfolio highlights selected SEO and digital marketing work across agency and in-house roles. Case studies below link directly to The Timmermann Group portfolio for full project details. Additional Hybrid Marketing SEO work is included for keyword growth and ranking performance.</p>
+</section>
+
+
+<section id="case-studies">
+<h2>Featured Case Studies (Timmermann Group)</h2>
+<div class="grid">
+<a class="logo-card" href="https://www.wearetg.com/portfolio/sandberg-phoenix/" target="_blank"><img src="/mnt/data/SANDBERG-PHONENIX-LOGO.jpg" alt="Sandberg Phoenix" /></a>
+<a class="logo-card" href="https://www.wearetg.com/portfolio/arco-construction/" target="_blank"><img src="/mnt/data/ARCO_Construction_logo_vertical.png" alt="ARCO Construction" /></a>
+<a class="logo-card" href="https://www.wearetg.com/portfolio/lutheran-senior-services/" target="_blank"><img src="/mnt/data/LUTHERAN SENIOR SERVICES LOGO.png" alt="Lutheran Senior Services" /></a>
+<a class="logo-card" href="https://www.wearetg.com/portfolio/priority-std/" target="_blank"><img src="/mnt/data/PRIOIRTYSTD-LOGO.png" alt="Priority STD" /></a>
+<a class="logo-card" href="https://www.wearetg.com/portfolio/keeley-companies/" target="_blank"><img src="/mnt/data/KEELEY-CONSTRUCTION-LOGO.png" alt="Keeley Construction" /></a>
+<a class="logo-card" href="https://www.wearetg.com/portfolio/telle-tire-auto-centers/" target="_blank"><img src="/mnt/data/TELLE-TIRE-LOGO.png" alt="Telle Tire" /></a>
+<a class="logo-card" href="https://www.wearetg.com/portfolio/sleeve-a-message/" target="_blank"><img src="/mnt/data/SLEEVE-A-MESSAGE-LOGO.png" alt="Sleeve A Message" /></a>
+<a class="logo-card" href="https://www.wearetg.com/portfolio/mitchell-wall/" target="_blank"><img src="/mnt/data/mitchell-wall-LOGO.jpg" alt="Mitchell Wall" /></a>
+<a class="logo-card" href="https://www.wearetg.com/portfolio/rotometrics/" target="_blank"><img src="/mnt/data/Rotometrics-LOGO.jpg" alt="Rotometrics" /></a>
+</div>
+</section>
+
+
+<section id="hybrid">
+<h2>Hybrid Marketing – SEO Performance</h2>
+<p>Below are SEO keyword ranking and growth examples from Hybrid Marketing clients. These assets demonstrate ranking improvements, competitive keyword movement, and long-term organic growth.</p>
+<p><a href="https://hybridmarketingstl.wixsite.com/aj-seo-portfolio/portfolio-collections/my-portfolio/seo-keyword-rankings" target="_blank">View Full SEO Rankings Gallery →</a></p>
+</section>
+
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Available for SEO strategy, audits, and growth-focused digital marketing roles.</p>
+<a href="https://www.linkedin.com" target="_blank" class="btn">Connect on LinkedIn</a>
+</section>
+
+
+<footer>
+<p>© AJ – SEO & Digital Marketing Portfolio</p>
+</footer>
+
+
+</body>
+</html>
